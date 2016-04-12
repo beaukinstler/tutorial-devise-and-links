@@ -1,28 +1,10 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Simple dev/testing app based on the book
+http://www.amazon.com/RUBY-Beginners-Programming-Structures-Computer-ebook/dp/B014ED2UOM/ref=sr_1_4?ie=UTF8&qid=1460494500&sr=8-4&keywords=Quick+Start+Guides
 
-Things you may want to cover:
+It's been used to test out 'Devise' and some basic database stuff.
 
-* Ruby version
+Changed the default dev to PostgreSQL and riffed on some of the admin views.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+I haven't added the Foundation framework to this public version yet, though I may in the future.

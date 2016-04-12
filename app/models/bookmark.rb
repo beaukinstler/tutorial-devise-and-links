@@ -1,3 +1,4 @@
+# A simple clasee for saving urls and friendly names to a database
 class Bookmark < ActiveRecord::Base
   belongs_to:user
   #validates :user_id, presence: true
